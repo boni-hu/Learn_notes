@@ -13,7 +13,7 @@
 
 [Python/NumPy](./python_notes/numpy_notes/README.md "NumPy 库的函数笔记")
 
-[Python/matplotlib](./python_notes/matpltlib_notes/README.md " matplotlib 库的函数笔记")
+[Python/matplotlib](./python_notes/matplotlib_notes/README.md " matplotlib 库的函数笔记")
 
 3. AI
 
