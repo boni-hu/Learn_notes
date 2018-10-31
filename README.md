@@ -3,11 +3,11 @@
 小白学习笔记：python,deep_learning,slam
 1. Linux: 快捷键 & tool
 
-[tool/Git](./linux_tool_notes/Git.md "Git 的使用命令和笔记")
+[tool/Git](./linux_tool_notes/Git/README.md "Git 的使用命令和笔记")
 
-[tool/markdown_typora](./linux_tool_notes/markdown_notes.md " markdown-typora 的使用笔记")
+[tool/markdown_typora](./linux_tool_notes/markdown/README.md " markdown-typora 的使用笔记")
 
-[tool/快捷键](./linux_tool_notes/快捷键.md "一些linux的快捷键")
+[tool/快捷键](./linux_tool_notes/快捷键/README.md "一些linux的快捷键")
 
 2. Python
 
