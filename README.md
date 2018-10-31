@@ -3,9 +3,9 @@
 小白学习笔记：python,deep_learning,slam
 + Linux: 快捷键 & tool
 
-[Git]:./linux_tool_notes/Git.md
-[markdown_typora]:./linux_tool_notes/markdown_notes.md
-[快捷键]:./linux_tool_notes/快捷键.md
+[Git](./linux_tool_notes/Git.md)
+[markdown_typora]:(./linux_tool_notes/markdown_notes.md)
+[快捷键]:(./linux_tool_notes/快捷键.md)
 
 + Python
 
