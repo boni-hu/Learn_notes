@@ -11,17 +11,17 @@
 
 2. Python
 
-[Python/NumPy](./python_notes/numpy_notes/numpy.md "NumPy 库的函数笔记")
+[Python/NumPy](./python_notes/numpy_notes/README.md "NumPy 库的函数笔记")
 
-[Python/matplotlib](./python_notes/matpltlib_notes/matplotlib.md " matplotlib 库的函数笔记")
+[Python/matplotlib](./python_notes/matpltlib_notes/README.md " matplotlib 库的函数笔记")
 
 3. AI
 
 [AI/NN-CNN](./AI_notes/nn_cnn/README.md " NN,CNN 网络架构和简单的代码实现")
 
-[AI/rg_lg](./AI_notes/rg_lg/rg_lg.md " 逻辑次回归和非逻辑次回归的笔记和代码实现")
+[AI/rg_lg](./AI_notes/rg_lg/README.md " 逻辑次回归和非逻辑次回归的笔记和代码实现")
 
-[AI/unsupervised_learning](./AI_notes/unsupervised_learning/unsupervised.md " 简单的无监督学习K-means 和PCA 笔记和代码实现")
+[AI/unsupervised_learning](./AI_notes/unsupervised_learning/README.md " 简单的无监督学习K-means 和PCA 笔记和代码实现")
 
 4. SLAM
 
