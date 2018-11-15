@@ -15,6 +15,8 @@
 
 [Python/matplotlib](./python_notes/matplotlib_notes/README.md " matplotlib 库的函数笔记")
 
+[Python/virtualenv](./python_notes/virtualenv/README.md " 虚拟环境笔记")
+
 3. AI
 
 [AI/NN-CNN](./AI_notes/nn_cnn/README.md " NN,CNN 网络架构和简单的代码实现")
