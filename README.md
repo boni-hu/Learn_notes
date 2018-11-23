@@ -17,6 +17,10 @@
 
 [Python/virtualenv](./python_notes/virtualenv/README.md " 虚拟环境笔记")
 
+[Python/tips](./python_notes/tips/pip.md " tips")
+
+[Python/文件操作](./python_notes/文件操作/python-open.md " 文件操作")
+
 3. AI
 
 [AI/NN-CNN](./AI_notes/nn_cnn/README.md " NN,CNN 网络架构和简单的代码实现")
@@ -28,6 +32,10 @@
 4. SLAM
 
 [SLAM/cost_volume](./SLAM_notes/MVDepthnet/README.md " 深度估计中有关cost-volume的概念")
+
+4. cs231n 学习笔记
+
+[cs231n](./cs231n/README.md "cs231n学习笔记整理")
 
 
 
