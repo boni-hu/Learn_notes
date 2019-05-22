@@ -1,5 +1,3 @@
-# Learn_notes
-
 ##  1. Linux: 常用工具和快捷键
 
   [tool/Git](./linux_tool_notes/Git/README.md "Git 的使用命令和笔记") : Git 常用命令和遇到的问题解决 
