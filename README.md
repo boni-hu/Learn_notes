@@ -1,6 +1,6 @@
 # Learn_notes
 
-1. Linux: 常用工具和快捷键
+##  1. Linux: 常用工具和快捷键
 
   [tool/Git](./linux_tool_notes/Git/README.md "Git 的使用命令和笔记") : Git 常用命令和遇到的问题解决 
 
@@ -12,7 +12,7 @@
 
   
 
-2. Python
+## 2. Python
 
   [Python/NumPy](./python_notes/numpy_notes/README.md "NumPy 库的函数笔记") :  NumPy 库的函数笔记
 
@@ -26,7 +26,7 @@
 
   
 
-3. AI
+## 3. AI
 
   [AI/NN-CNN](./AI_notes/nn_cnn/README.md " NN,CNN 网络架构和简单的代码实现")
 
@@ -36,25 +36,25 @@
 
   
 
-4. C++
+## 4. C++
 
    
 
-5. SLAM
+## 5. SLAM
 
   [SLAM/cost_volume](./SLAM_notes/MVDepthnet/README.md " 深度估计中有关cost-volume的概念") : 深度估计中有关cost-volume的概念
 
   
 
-6. Project 学习
+## 6. Project 学习
 
-  [MVDepthNet](./Project学习笔记/MVdepthNet.md "MvdepthNet学习笔记")
+  [MVDepthNet](./Project学习笔记/MVdepthNet.md "MvdepthNet学习笔记") : MvdepthNet学习笔记
 
-  [DenseDepth](./Project学习笔记/DenseDepth.md "DenseDepth学习笔记")
+  [DenseDepth](./Project学习笔记/DenseDepth.md "DenseDepth学习笔记") : DenseDepth学习笔记
 
   
 
-7. BookMarks
+## 7. BookMarks
 
   [BookMarks](BookMarks.md "资料整理，网页链接等")
 
