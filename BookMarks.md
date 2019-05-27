@@ -17,3 +17,6 @@
 
 `senseFly` `航拍`：https://www.sensefly.com/education/datasets/
 
+### 好的博客
+
+`深度学习Loss为nan`<https://blog.csdn.net/u013250416/article/details/81410693>

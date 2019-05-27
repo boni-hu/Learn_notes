@@ -6,7 +6,7 @@
 
   [tool/快捷键](./linux_tool_notes/快捷键/README.md "一些linux的快捷键") : ubuntu linux 系统的一些快捷键等
 
-  [tool/Docker](./linux_tool_notes/Docker.md "挂载服务器上使用Doker") : 实验室挂载服务器上新建Docker Container 
+  [tool/Docker](./linux_tool_notes/Docker/Docker.md "挂载服务器上使用Doker") : 实验室挂载服务器上新建Docker Container 
 
   
 

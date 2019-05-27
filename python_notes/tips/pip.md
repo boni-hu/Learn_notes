@@ -64,3 +64,35 @@ $ pip show numpy
 ```
 pip config set global.index-url 'https://mirrors.ustc.edu.cn/pypi/web/simple'
 ```
+
+## 4. pip2 pip3 pip 
+因为python2和python3版本不兼容的原因，所以很多系统上避免不了转python2 和python3。 pip 有时候指向pip2；有时候指向pip3。在我的电脑上，pip和pip3 都指向了python3.。为了让pip指向python2， pip3 指向python3.需要做一些简单的修改：
+
+命令如下：which pip
+
+一般情况下会显示：
+
+```/usr/local/bin/pip```
+
+然后 ```vim /usr/local/bin/pip```
+
+我们可以看到如下：
+
+```
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from pip import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
+```
+将第一行``` #!/usr/bin/python3 ```修改为
+
+```#!/usr/bin/python2```
+然后`Esc`退出编辑模式 `Shift`+`ZZ`保存
+
+然后pip 就指向pip2 也就是python2了
