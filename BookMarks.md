@@ -4,11 +4,10 @@
 ### SLAM 技术博客：
 `白巧克力` <https://blog.csdn.net/heyijia0327/article/category/3245449>
 
-### 深度学习：
-`动手深度学习` <http://zh.gluon.ai/index.html>
-
 ### 工具软件
 `论文下载`  `SCI-Hub`： http://sci-hub.tw/
+
+`markdown` `公式编辑` ：<https://www.jianshu.com/p/25f0139637b7>
 
 ### 数据集
 `各种数据集合集`:  http://riemenschneider.hayko.at/vision/dataset/index.php
@@ -56,3 +55,5 @@
 - [机器学习算法 Python 实现](http://www.6aiq.com/forward?goto=https%3A%2F%2Flink.juejin.im%2F%3Ftarget%3Dhttps%3A%2F%2Fgithub.com%2Flawlite19%2FMachineLearning_Python)
 - 另外，对于一些基础的数学知识，你看[深度学习 (花书) 中文版](http://www.6aiq.com/forward?goto=https%3A%2F%2Flink.juejin.im%2F%3Ftarget%3Dhttps%3A%2F%2Fgithub.com%2Fexacity%2Fdeeplearningbook-chinese)就够了。这本书同时也是**深度学习**经典之书。
 - 来自南京大学周志华小组的博士生写的一本小而精的[解析卷积神经网络—深度学习实践手册](http://www.6aiq.com/forward?goto=https%3A%2F%2Flink.juejin.im%2F%3Ftarget%3Dhttp%3A%2F%2Flamda.nju.edu.cn%2Fweixs%2Fbook%2FCNN_book.html)
+- 动手深度学习 <http://zh.gluon.ai/index.html>
+
