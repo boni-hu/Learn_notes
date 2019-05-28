@@ -65,7 +65,7 @@ $ pip show numpy
 pip config set global.index-url 'https://mirrors.ustc.edu.cn/pypi/web/simple'
 ```
 
-## 4. pip2 pip3 pip 
+## 4. 查看更换pip版本
 因为python2和python3版本不兼容的原因，所以很多系统上避免不了转python2 和python3。 pip 有时候指向pip2；有时候指向pip3。在我的电脑上，pip和pip3 都指向了python3.。为了让pip指向python2， pip3 指向python3.需要做一些简单的修改：
 
 命令如下：which pip
