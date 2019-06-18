@@ -44,19 +44,11 @@
 
   
 
-## 6. Project 学习
-
-  [MVDepthNet](./Project学习笔记/MVdepthNet.md "MvdepthNet学习笔记") : MvdepthNet学习笔记
-
-  [DenseDepth](./Project学习笔记/DenseDepth.md "DenseDepth学习笔记") : DenseDepth学习笔记
-
-  
+## 6. 论文整理
+  [论文整理](./论文整理/论文整理.md "看过的论文整理，学习论文笔记等")
 
 ## 7. BookMarks
 
   [BookMarks](BookMarks.md "资料整理，网页链接等")
-
-
-
 
 
