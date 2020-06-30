@@ -44,8 +44,12 @@
 
   
 
-## 6. 论文整理
-  [论文整理](./论文整理/论文整理.md "看过的论文整理，学习论文笔记等")
+## 6. projects整理
+  [论文整理-depth estimation](./projects/depth_estimation/论文整理-基于深度学习的深度估计.md "看过的论文整理，跑过的demo学习论文笔记等")
+  [论文整理-domain_adaption](./projects/domain_adaption/论文整理-domain_adaption.md "看过的论文整理，跑过的demo学习论文笔记等")
+
+
+
 
 ## 7. BookMarks
 
